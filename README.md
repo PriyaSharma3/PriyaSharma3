@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/priyasharma_024" target="blank"><img src="https://img.shields.io/twitter/follow/priyasharma_024?logo=twitter&style=for-the-badge" alt="priyasharma_024" /></a> </p>
 
-- 🔭 I’m currently working on [Web Development Projects](https://github.com/BoloLive)
+- 🔭 I’m currently looking for the role of a **Software Engineer**
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I have the knowledge about **ReactJs, NodeJs, Html,CSs, Javascript**
 
 - 💬 Ask me about **Full Stack Web Development.**
 
 - 📫 How to reach me **priyasharma972046@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14E119LWyb1IvJ4B3gczzxy2oERLXY1VZ/view](https://drive.google.com/file/d/14E119LWyb1IvJ4B3gczzxy2oERLXY1VZ/view)
+- 📄 Please find my resume here [https://drive.google.com/file/d/14E119LWyb1IvJ4B3gczzxy2oERLXY1VZ/view](https://drive.google.com/file/d/1Bke0A2Ld02br6-HvCLhrxfz98tmZ6Xut/view)
 
 - ⚡ Fun fact **I think I am funny xD**
 
